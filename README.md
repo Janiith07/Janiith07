@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 <p align="justify">
-  Passionate <strong>Full-Stack Developer</strong> with <strong>UI/UX</strong> expertise and <strong>Full-Stack</strong> capabilities. I create beautiful, responsive, and user-friendly web applications with clean code and modern technologies. My goal is to build products that provide pixel-perfect, performant experiences.
+  Passionate <strong>Full-Stack Developer</strong> with <strong>UI/UX</strong> expertise and <strong>Full-Stack</strong> capabilities. I build responsive, user-friendly, and scalable web applications using modern technologies and clean code. My goal is to deliver seamless, high-performance products with great user experiences.
 </p>
 
 <!-- Tech Stack Section -->
