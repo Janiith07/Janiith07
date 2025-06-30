@@ -56,13 +56,13 @@
 ## 📬 Get In Touch
 
 <div align="center">
-  <a href="www.linkedin.com/in/sanjula-mohotti-96a516339" target="_blank">
+  <a href="www.linkedin.com/in/lakindu-janith-9b16bb318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sanjulakalpani1212@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://sanjulamohotti.vercel.app/" target="_blank">
+  //<a href="https://sanjulamohotti.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
 </div>
