@@ -47,7 +47,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janiith07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaMohotti&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiith07&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
 </div>
 
 
