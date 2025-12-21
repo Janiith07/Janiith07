@@ -18,7 +18,7 @@
 ## About Me
 
 <p align="justify">
-  <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong> Undergraduate. I build responsive, user-friendly, and scalable web applications using modern technologies and clean code. My goal is to deliver seamless, high-performance products with great user experiences.
+  <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong> Undergraduate. passionate about building intelligent, data-driven solutions. Strong interest in machine learning, data analysis, and model development, with a focus on solving real-world problems using modern AI technologies.
 </p>
 
 <!-- Contact Section -->
