@@ -18,7 +18,7 @@
 ## About Me
 
 <p align="justify">
-  Passionate <strong>Artificial Intelligence</strong>and<strong>Machine Learning</strong> expertise. I build responsive, user-friendly, and scalable web applications using modern technologies and clean code. My goal is to deliver seamless, high-performance products with great user experiences.
+  <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong> Undergraduate. I build responsive, user-friendly, and scalable web applications using modern technologies and clean code. My goal is to deliver seamless, high-performance products with great user experiences.
 </p>
 
 <!-- Contact Section -->
