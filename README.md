@@ -15,35 +15,35 @@
   </picture>
 </div>
 
-## 🚀 About Me
+## About Me
 
 <p align="justify">
   Passionate <strong>Full-Stack Developer</strong> with <strong>UI/UX</strong> expertise. I build responsive, user-friendly, and scalable web applications using modern technologies and clean code. My goal is to deliver seamless, high-performance products with great user experiences.
 </p>
 
 <!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages & Frameworks
+### Languages & Frameworks
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java" alt="languages and frameworks" />
 </div>
 
-### 🎨 Design & Styling
+### Design & Styling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" alt="design tools" />
 </div>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,docker,aws,firebase,vercel,netlify,postman" alt="tools and platforms" />
 </div>
 
 <!-- GitHub Stats with Animation -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janiith07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -53,7 +53,7 @@
 
 
 <!-- Contact Section -->
-## 📬 Get In Touch
+## Get In Touch
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lakindu-janith-9b16bb318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
