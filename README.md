@@ -21,37 +21,6 @@
   Passionate <strong>Full-Stack Developer</strong> with <strong>UI/UX</strong> expertise. I build responsive, user-friendly, and scalable web applications using modern technologies and clean code. My goal is to deliver seamless, high-performance products with great user experiences.
 </p>
 
-<!-- Tech Stack Section -->
-## Tech Stack
-
-### Languages & Frameworks
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java" alt="languages and frameworks" />
-</div>
-
-### Design & Styling
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,tailwind,scss,materialui,bootstrap,styledcomponents" alt="design tools" />
-</div>
-
-### Tools & Platforms
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,docker,aws,firebase,vercel,netlify,postman,colab" alt="tools and platforms" />
-</div>
-
-<!-- GitHub Stats with Animation -->
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janiith07&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiith07&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
-</div>
-
-
-
 <!-- Contact Section -->
 ## Get In Touch
 
